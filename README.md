@@ -1,16 +1,32 @@
-## Hi there 👋
+- 👋 Hi, I’m @engr-Phill
+- 👀 I’m interested in all things sofware engneering related
+- 🌱 I’m currently learning software architecture, web scraping, system security and embedded systems programming.
+- 📫 How to reach me: null :😝
 
-<!--
-**engr-Phill/engr-Phill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+Put all the algorithms in here like all the stuff from SWEN 225 and COMPs. Try to adapt those into your own visulizations so that you can write a 
+quick report about them so you have a cool looking project along with a report about how it works
 
-Here are some ideas to get you started:
+Description of each project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Can do something like this so its easy for them to find and discover things
+```text
+Environmental-Monitoring-2020/engr-project/
+├── docs
+├── software
+    ├── mqtt
+    ├── server
+    ├── simulator
+    ├── device
+        ├── embedded
+        └── webapp
+├── hardware
+    ├── schematics
+    ├── reviews
+    └── bom
+├── sd
+├── setup
+└── util
+```
+
+--->
