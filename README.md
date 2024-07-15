@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @engr-Phill
 - 👀 I’m interested in all things sofware engneering related
 - 🌱 I’m currently learning software architecture, web scraping, system security and embedded systems programming.
-- 📫 How to reach me: null :😝
+- 📫 How to reach me: null 😝 You probably already have my contact details 
 
 <!---
 Put all the algorithms in here like all the stuff from SWEN 225 and COMPs. Try to adapt those into your own visulizations so that you can write a 
